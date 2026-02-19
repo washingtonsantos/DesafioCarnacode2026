@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "src\Singleton\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype", "src\Prototype\Prototype.csproj", "{E4AAD804-105C-4801-A13C-321E3C085546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "src\Adapter\Adapter.csproj", "{7EB2959C-74AF-4D82-8719-6888D787C1AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{E4AAD804-105C-4801-A13C-321E3C085546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4AAD804-105C-4801-A13C-321E3C085546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4AAD804-105C-4801-A13C-321E3C085546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB2959C-74AF-4D82-8719-6888D787C1AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB2959C-74AF-4D82-8719-6888D787C1AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB2959C-74AF-4D82-8719-6888D787C1AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB2959C-74AF-4D82-8719-6888D787C1AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{4FFD0AD0-346F-4958-BEC8-1DD3D240A5CA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{DF3C28C8-148F-407E-961F-082F6461A05C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{E4AAD804-105C-4801-A13C-321E3C085546} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{7EB2959C-74AF-4D82-8719-6888D787C1AD} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {625DC1D6-BC96-46B0-BE8B-9D862DF2A75B}
